@@ -1,0 +1,64 @@
+
+
+1. The Big Picture: Software Engineering
+    This module aims to provide fundamental concepts in the software development ecosystem. It includes a basic introduction to tools and technologies along with various roles that engineers have: full-stack development, quality assurance & devops.
+    Estimated duration
+        1 week
+    Lectures
+        4 Hrs
+    Guest Lecture
+        1 Hr
+
+2. Fundamentals of Web Development
+    This module aims to build on the basic concepts to learn Python. It uses the ideas from the previous modules especially version control, project management & devops.
+        HTML fundamentals
+        Designs with CSS
+        Introduction to JS and ES6
+    Estimated duration
+        2 weeks
+    Lectures
+        8 Hrs
+    Guest Lectures
+        1 Hr
+
+3. Python programming
+    This module aims to build basic concepts to learn Python. It uses the ideas from the previous modules, especially version control, project management.
+    Estimated duration
+        2 weeks
+    Lecturers
+        8 Hrs
+    Guest Lectures
+        1 Hr
+
+4. Backend Framework: Django
+    This module will introduce the use of Django framework in Python for web development. It includes setting up the framework, basic CRUD operations, authentication & other core elements of Django.
+    Estimated duration
+        3 weeks
+    Lectures
+        12 Hrs
+    Guest Lectures
+        1 Hr
+
+5. Django REST framework
+    This module will introduce REST framework in Django. It includes building a complex web application using advanced Django concepts.
+    Estimated duration
+        1 week
+    Lectures
+        4 Hrs
+    Guest Lectures
+        1 Hr
+
+6. Frontend Library: React
+    This module will introduce React.js as a Frontend library to create a single page application.
+        Basic: Introduction, create-react-app cli.
+        Advanced: Component States, Lifecycle and Hooks, JSX and Event bindings.
+        API integrations and data management with React.js.
+    Estimated duration
+        1 week
+    Lectures
+        4 Hrs
+    Guest Lectures
+        1 Hr
+
+7. Capstone Project: Final Project
+    During these final weeks, you will create a final project which includes every concept from the previous modules.
